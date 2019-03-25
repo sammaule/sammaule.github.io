@@ -1,7 +1,21 @@
 ---
 layout: post
-title: "Sam Maule, Launches Site"
+title: "Test post"
 date: 2019-03-15
 ---
 
-Well. Finally got around to putting this old website together. Neat thing about it - powered by [Jekyll](http://jekyllrb.com) and I can use Markdown to author my posts. It actually is a lot easier than I thought it was going to be.
+Testing if this renders correctly. Using markdown I should be able to define `things like this`, as well as longer chunks of python code like this: 
+
+```python
+def func(x):
+     y = x + 2
+     return y
+```
+
+# Header 1
+## Header 2
+### Header 3
+#### Header 4
+
+Markdown
+:  Text-to-HTML conversion tool
