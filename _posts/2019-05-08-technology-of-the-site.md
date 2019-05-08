@@ -17,11 +17,12 @@ Taken together, hosting my own site scores fairly high on simplicity (although l
 
 One of the most popular options for static sites is GitHub pages used in combination with Jekyll. I liked the look of [example sites](https://jekyllrb.com/showcase/) that use this approach, and they are similar to the sort of site  I want to create, so I jumped straight in.
 
-There were basically only two resources I needed to get everything up and running. The first is a tutorial in setting up Jekyll based sites on GitHub Pages, which is super easy to follow, and gives you a working website in as little as half an hour of work. After a bit of fiddling around changing some of the layout of the site, the layout and adding a bit of my own content, the site was done!
+There were basically only two resources I needed to get everything up and running. The first is a great [tutorial in setting up Jekyll based sites on GitHub Pages](http://jmcglone.com/guides/github-pages/), which is super easy to follow, and gives you a working website in as little as half an hour of work. After a bit of fiddling around changing some of the layout of the site, the layout and adding a bit of my own content, the site was done!
 
 The default domain for github pages is username.github.io. Since I wanted to add my own custom domain There was one final step to follow, which is to use a custom domain with GitHub Pages. Since I'd originally bought my domain with Gandi, I followed the [good instructions of Daniel Spector](http://spector.io/how-to-set-up-github-pages-with-a-custom-domain-on-gandi/) which worked well. The only change that needs to be made is to the DNS Records in Gandi as the IP addresses you need to point to must have changed since that blog post was written. At the time of writing the correct settings are in Figure 1.
 
 ![alt text](https://github.com/sammaule/sammaule.github.io/blob/master/images/Screen%20Shot%202019-05-02%20at%2021.27.52.png "Figure 1")
+
 Figure 1: DNS settings on Gandi for GitHub Pages
 
 That's all you need to do to get a custom domain site up and running with GitHub Pages and Gandi. I have also added a couple of other features to my page including Google Analytics. For those curious about the underlying code, here's the link to the [GitHub repository](https://github.com/sammaule/sammaule.github.io).
