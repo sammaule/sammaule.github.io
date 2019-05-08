@@ -21,7 +21,7 @@ There were basically only two resources I needed to get everything up and runnin
 
 The default domain for github pages is username.github.io. Since I wanted to add my own custom domain There was one final step to follow, which is to use a custom domain with GitHub Pages. Since I'd originally bought my domain with Gandi, I followed the [good instructions of Daniel Spector](http://spector.io/how-to-set-up-github-pages-with-a-custom-domain-on-gandi/) which worked well. The only change that needs to be made is to the DNS Records in Gandi as the IP addresses you need to point to must have changed since that blog post was written. At the time of writing the correct settings are in Figure 1.
 
-![alt text](https://github.com/sammaule/sammaule.github.io/blob/master/images/Screen%20Shot%202019-05-02%20at%2021.27.52.png "Figure 1")
+![alt text]({{ site.url }}/assets/technology-of-the-site-figure-1.png)
 
 Figure 1: DNS settings on Gandi for GitHub Pages
 
