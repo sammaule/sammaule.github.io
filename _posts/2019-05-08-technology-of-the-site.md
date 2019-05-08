@@ -7,7 +7,7 @@ tags: test1 test2 test3
 
 Building my own website has been on my to-do list for a long time. After having paid for this domain for longer than I'd care to admit I finally did something about it. This first post explains briefly the technology behind the site and the reasons for those choices. I don't intend to write many posts like this, but I thought this might be useful for anyone who wants to create their own site but is currently procrastinating!
 
-The main decision that I had to make was whether to host my own site, or use a service like WordPress or Squarespace. There are two main considerations that led me to choose to host my own site.
+The main decision that I had to make was whether to host my own site, or use a service like WordPress or Squarespace. There are two main considerations that led me to choose to host my own site:
 
 1. Simplicity. Most managed services still require the user to have some knowledge of the innards of how websites work. For the sake of a very simple site that will contain a few blog posts, understanding databases and web servers seemed excessive. Whilst it's true there is some learning curve to hosting your own site, this is relatively short. I had a simple website up and running in an afternoon.
 
