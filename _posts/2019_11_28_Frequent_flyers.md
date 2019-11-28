@@ -91,8 +91,8 @@ simple and productive solution?
 
 P.S.
 
-There is probably a statical exercise that could be done to infer the
-distribution of the UK populations flying population from the study
+There is probably a statistical exercise that could be done to infer the
+UK population's flying distribution from the study
 results above. If I find some time over the holiday period to work out
 how to do this I may well give it a pop. In the meantime it would be
 excellent if a more detailed study was designed to work out the impact
