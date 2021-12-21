@@ -2,7 +2,6 @@
 layout: post
 title: "Visualising the European Energy Mix"
 date: 2019-05-24
-tags: test1 test2 test3
 ---
 
 Countries typically generate electricity from multiple sources, which can make it hard to visually identify which countries have similar characteristics because they cannot easily be displayed in two dimensions.
