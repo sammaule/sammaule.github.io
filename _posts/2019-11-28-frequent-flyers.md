@@ -2,7 +2,6 @@
 layout: post
 title: "Frequent flyers?"
 date: 2019-11-28
-tags: test1 test2 test3
 ---
 
 Following a 2014 survey of the British public it was revealed that in the

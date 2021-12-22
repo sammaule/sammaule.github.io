@@ -2,7 +2,6 @@
 layout: post
 title: "Technology of the site"
 date: 2019-03-25
-tags: test1 test2 test3
 ---
 
 Building my own website has been on my to-do list for a long time. After having paid for this domain for longer than I'd care to admit I finally did something about it. This first post explains briefly the technology behind the site and the reasons for those choices. I don't intend to write many posts like this, but I thought this might be useful for anyone who wants to create their own site but is currently procrastinating!
