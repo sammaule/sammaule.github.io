@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Linear regression from scratch with tf.GradientTape"
-date: 2021-12-22
+date: 2022-01-06
 ---
 
 TensorFlow's GradientTape is a context manager for automatic differentiation. To understand how it works a bit better, here I have implemented a linear regression from scratch using it.
