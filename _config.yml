@@ -4,3 +4,16 @@ permalink: /blog/:year/:month/:day/:title
 theme: minima
 google_analytics: UA-136966343-1
 htmlwidgets: TRUE
+comments:
+  provider: "utterances"
+  utterances:
+    theme: "github-light" # "github-dark"
+    issue_term: "pathname"
+    label: "comment" # Optional - must be existing label.
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      comments: true
