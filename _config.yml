@@ -1,7 +1,7 @@
 name: Sam Maule
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
-theme: minima
+theme: minimal-mistakes-jekyll
 google_analytics: UA-136966343-1
 htmlwidgets: TRUE
 repository: sammaule/sammaule.github.io
