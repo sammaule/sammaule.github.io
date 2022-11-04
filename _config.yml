@@ -4,3 +4,8 @@ theme: minima
 permalink: /blog/:year/:month/:day/:title
 google_analytics: UA-136966343-1
 htmlwidgets: TRUE
+minima:
+  social_links:
+    twitter: SEMaule
+    github: sammaule
+    linkedin: sam-maule-08b0a935
