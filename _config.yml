@@ -4,6 +4,7 @@ permalink: /blog/:year/:month/:day/:title
 theme: minima
 google_analytics: UA-136966343-1
 htmlwidgets: TRUE
+repository: sammaule/sammaule.github.io
 comments:
   provider: "utterances"
   utterances:
