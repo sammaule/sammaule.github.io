@@ -1,6 +1,8 @@
 name: Sam Maule
 markdown: kramdown
-theme: minima
+plugins:
+  - jekyll-remote-theme
+remote_theme: jekyll/minima
 permalink: /blog/:year/:month/:day/:title
 google_analytics: UA-136966343-1
 htmlwidgets: TRUE
