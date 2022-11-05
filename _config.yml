@@ -1,6 +1,6 @@
 author:
   name: Sam Maule
-  email: sma.maule@gmail.com
+  email: sam.maule@gmail.com
 markdown: kramdown
 plugins:
   - jekyll-remote-theme
