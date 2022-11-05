@@ -1,11 +1,13 @@
-name: Sam Maule
+author:
+  name: Sam Maule
+  email: sma.maule@gmail.com
 markdown: kramdown
 plugins:
   - jekyll-remote-theme
 remote_theme: jekyll/minima
 permalink: /blog/:year/:month/:day/:title
 google_analytics: UA-136966343-1
-htmlwidgets: TRUE
+htmlwidgets: true
 minima:
   social_links:
     twitter: SEMaule
