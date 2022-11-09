@@ -8,8 +8,11 @@ remote_theme: jekyll/minima
 permalink: /blog/:year/:month/:day/:title
 google_analytics: UA-136966343-1
 htmlwidgets: true
+url: https://maule.io
 minima:
   social_links:
     twitter: SEMaule
     github: sammaule
     linkedin: sam-maule-08b0a935
+ disqus:
+  shortname: maule-1
