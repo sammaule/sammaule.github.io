@@ -13,8 +13,8 @@ htmlwidgets: true
 url: https://maule.io
 minima:
   social_links:
-    twitter: SEMaule
-    github: sammaule
-    linkedin: sam-maule-08b0a935
+    - { platform: github,  user_url: "https://github.com/sammaule" }
+    - { platform: twitter, user_url: "https://twitter.com/SEMaule" }
+    - { platform: linkedin, user_url: "https://linkedin.com/sam-maule-08b0a935" }
 disqus:
   shortname: maule-1
