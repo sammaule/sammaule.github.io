@@ -32,7 +32,8 @@ import tensorflow as tf
 import pandas as pd
 
 LABELS = ["Fish", "Flower", "Gravel", "Sugar"]
-INPUT_PATH = "gs://cloud-id-308615/data/train.csv"
+# made up folder name
+INPUT_PATH = "gs://folder/data/train.csv"
 
 def get_labels(data_path):
     """
@@ -124,7 +125,8 @@ for i, img_keys in tqdm(enumerate(img_key_shards)):
     tf_record_path = f"raw_train_images_{idx}.tfrecords"
     with tf.io.TFRecordWriter(tf_record_path) as writer:
         for img_key in img_keys:
-            image_string = tf.io.read_file(f'gs://cloud-id-308615/data/train/images/{img_key}.jpg')
+            # made up folder 
+            image_string = tf.io.read_file(f'gs://folder/data/train/images/{img_key}.jpg')
             serialized_img = serialize_image(image_string, labels[img_key])
             writer.write(serialized_img)
 ```

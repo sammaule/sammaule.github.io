@@ -114,4 +114,4 @@ for step in range(steps + 1):
     STEP: 1000 - loss: 0.018689170479774475, w0: 3.0084, w1: 4.2159
 
 
-As you can see this gets us fairly close to the "true" values of w0 and w1 of 3 and 4 respectively, the model might even be a little overfit :)!
+As you can see this gets us fairly close to the "true" values of w0 and w1 of 3 and 4 respectively.
